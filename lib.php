@@ -7,8 +7,7 @@ protected $apiUrl = "https://svcs.sandbox.paypal.com/AdaptivePayments/";
 protected $user = "< user_id >";
 protected $password = "< user_password >";
 protected $signature = "< signature >";
-// app sandbox paypal for test
-protected $idapp = "APP-80W284485P519543T";	
+protected $idapp = "APP-80W284485P519543T";	/* app sandbox paypal for test and development */
 
 protected function __construct(){
 
