@@ -1,0 +1,11 @@
+{
+    "name": "micheledef/example-chained-payment-paypal",
+    "autoload": {
+        "psr-4": {
+            "Micheledef\\ExampleChainedPaymentPaypal\\": "src/"
+        }
+    },
+    "require-dev": {
+        "deployer/deployer": "^7.3"
+    }
+}
